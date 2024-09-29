@@ -1,2 +1,2 @@
 # UAC-Bypass
-Bypass the User account Control on windows using a number of methods
+Bypass User account Control / UAC on windows
